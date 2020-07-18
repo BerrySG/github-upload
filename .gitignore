@@ -10,8 +10,8 @@ Desktop.ini
 *.egg-info
 dist
 build
-__pycache__
-images
+__pycache__/
+images/
 
 # My configurations:
 sheet2.py
