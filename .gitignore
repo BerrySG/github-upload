@@ -11,7 +11,7 @@ Desktop.ini
 dist
 build
 __pycache__/
-images/
+images
 
 # My configurations:
-# sheet2.py
+sheet2.py
